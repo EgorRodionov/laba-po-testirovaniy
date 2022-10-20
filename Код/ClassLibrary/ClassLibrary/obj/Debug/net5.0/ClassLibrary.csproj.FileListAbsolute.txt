@@ -1,0 +1,12 @@
+D:\Важные файлы\4 курс\7 семестр\Тестирование ПО\Лабораторная работа №1\Код\ClassLibrary\ClassLibrary\bin\Debug\net5.0\ClassLibrary.deps.json
+D:\Важные файлы\4 курс\7 семестр\Тестирование ПО\Лабораторная работа №1\Код\ClassLibrary\ClassLibrary\bin\Debug\net5.0\ClassLibrary.dll
+D:\Важные файлы\4 курс\7 семестр\Тестирование ПО\Лабораторная работа №1\Код\ClassLibrary\ClassLibrary\bin\Debug\net5.0\ref\ClassLibrary.dll
+D:\Важные файлы\4 курс\7 семестр\Тестирование ПО\Лабораторная работа №1\Код\ClassLibrary\ClassLibrary\bin\Debug\net5.0\ClassLibrary.pdb
+D:\Важные файлы\4 курс\7 семестр\Тестирование ПО\Лабораторная работа №1\Код\ClassLibrary\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csprojAssemblyReference.cache
+D:\Важные файлы\4 курс\7 семестр\Тестирование ПО\Лабораторная работа №1\Код\ClassLibrary\ClassLibrary\obj\Debug\net5.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Важные файлы\4 курс\7 семестр\Тестирование ПО\Лабораторная работа №1\Код\ClassLibrary\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfoInputs.cache
+D:\Важные файлы\4 курс\7 семестр\Тестирование ПО\Лабораторная работа №1\Код\ClassLibrary\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfo.cs
+D:\Важные файлы\4 курс\7 семестр\Тестирование ПО\Лабораторная работа №1\Код\ClassLibrary\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\Важные файлы\4 курс\7 семестр\Тестирование ПО\Лабораторная работа №1\Код\ClassLibrary\ClassLibrary\obj\Debug\net5.0\ClassLibrary.dll
+D:\Важные файлы\4 курс\7 семестр\Тестирование ПО\Лабораторная работа №1\Код\ClassLibrary\ClassLibrary\obj\Debug\net5.0\ref\ClassLibrary.dll
+D:\Важные файлы\4 курс\7 семестр\Тестирование ПО\Лабораторная работа №1\Код\ClassLibrary\ClassLibrary\obj\Debug\net5.0\ClassLibrary.pdb
